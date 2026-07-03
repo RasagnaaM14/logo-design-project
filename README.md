@@ -11,7 +11,6 @@ A modern logo design created for **CRUX Studios**, a fictional gaming startup. T
 ## 🛠 Tools Used
 - Adobe Illustrator / Figma
 - ChatGPT
-- AI Image Generation
 
 ## 👤 Author
 **Rasagna Moturi**
